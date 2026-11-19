@@ -1,0 +1,27 @@
+{
+  "name": "nutriguide-backend",
+  "version": "1.0.0",
+  "description": "Backend API for NutriGuide connected to MongoDB Atlas",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node scripts/seed.js",
+    "test:db": "node scripts/test-connection.js"
+  },
+  "keywords": [
+    "nutriguide",
+    "mongodb",
+    "express",
+    "mongoose"
+  ],
+  "author": "Subi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}

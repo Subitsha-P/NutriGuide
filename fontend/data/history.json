@@ -1,0 +1,56 @@
+[
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d3" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+    "username": "subi",
+    "planDate": "2026-11-19",
+    "targetCalories": 2050,
+    "totalCalories": 2035,
+    "totalProtein": 92.0,
+    "totalCarbohydrates": 268.0,
+    "totalFat": 55.0,
+    "mealsSummary": {
+      "breakfast": "Idli + Sambar + Roasted Makhana + Green Tea (485 kcal)",
+      "lunch": "Brown Rice + Palak Paneer + Curd + Beans Poriyal (676 kcal)",
+      "snack": "Chickpea Sundal + Apple (305 kcal)",
+      "dinner": "Phulka Roti + Moong Dal + Kachumber Salad + Haldi Milk (569 kcal)"
+    },
+    "createdAt": { "$date": "2026-11-19T08:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d8" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+    "username": "subi",
+    "planDate": "2026-11-18",
+    "targetCalories": 2050,
+    "totalCalories": 2010,
+    "totalProtein": 88.0,
+    "totalCarbohydrates": 272.0,
+    "totalFat": 52.0,
+    "mealsSummary": {
+      "breakfast": "Ragi Dosa + Tomato Chutney + Buttermilk (470 kcal)",
+      "lunch": "Vegetable Pulao + Cucumber Raita + Moong Sprouts (680 kcal)",
+      "snack": "Mixed Roasted Seeds + Orange (290 kcal)",
+      "dinner": "Chapati + Paneer Bhurji + Clear Vegetable Soup (570 kcal)"
+    },
+    "createdAt": { "$date": "2026-11-18T08:15:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d7" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+    "username": "subi",
+    "planDate": "2026-11-17",
+    "targetCalories": 2050,
+    "totalCalories": 2045,
+    "totalProtein": 95.0,
+    "totalCarbohydrates": 260.0,
+    "totalFat": 57.0,
+    "mealsSummary": {
+      "breakfast": "Moong Dal Chilla + Mint Chutney (490 kcal)",
+      "lunch": "Ragi Mudde + Sambar + Cabbage Poriyal (690 kcal)",
+      "snack": "Boiled Corn Chaat + Papaya (310 kcal)",
+      "dinner": "Phulka Roti + Dal Tadka + Steamed Bhindi (555 kcal)"
+    },
+    "createdAt": { "$date": "2026-11-17T08:10:00.000Z" }
+  }
+]

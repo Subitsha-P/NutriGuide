@@ -1,0 +1,117 @@
+[
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9r001" },
+    "slug": "palak-paneer",
+    "name": "Palak Paneer",
+    "description": "Cottage cheese cubes simmered in a mildly spiced spinach purée.",
+    "region": "North Indian",
+    "course": "Main Course",
+    "dietType": "vegetarian",
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "servings": 2,
+    "servingSize": "1 cup (200g)",
+    "nutrition": {
+      "calories": 280,
+      "protein": 14.0,
+      "carbohydrates": 10.0,
+      "fat": 20.0,
+      "fiber": 4.0,
+      "sodium": 350
+    },
+    "suitableFor": ["diabetes", "weight_loss", "hypertension"],
+    "isLikedBySubi": true,
+    "keyIngredients": ["Spinach", "Paneer", "Garlic", "Cumin", "Onion", "Tomatoes"],
+    "ingredients": [
+      { "item": "Fresh spinach (palak)", "quantity": "250g washed" },
+      { "item": "Paneer cubes", "quantity": "150g" },
+      { "item": "Onion", "quantity": "1 medium, finely chopped" },
+      { "item": "Tomatoes", "quantity": "2 medium, pureed" },
+      { "item": "Ginger-garlic paste", "quantity": "1 tbsp" },
+      { "item": "Garam masala & cumin powder", "quantity": "1 tsp each" },
+      { "item": "Olive oil / Ghee", "quantity": "1 tbsp" }
+    ],
+    "steps": [
+      "Blanch spinach leaves in boiling salted water for 2 minutes, then transfer immediately to ice-cold water to retain green colour.",
+      "Blend blanched spinach with green chillies into a smooth puree.",
+      "Heat oil in a pan, add cumin seeds, chopped onions, and ginger-garlic paste; saute until golden.",
+      "Add tomato puree and ground spices; cook until oil separates.",
+      "Pour in the spinach puree and simmer for 4-5 minutes on low flame.",
+      "Gently add paneer cubes, cook for another 2 minutes, and serve hot with phulka or rice."
+    ]
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9r002" },
+    "slug": "moong-dal-khichdi",
+    "name": "Moong Dal Khichdi",
+    "description": "Nutritious and comforting one-pot meal of rice, split yellow moong dal, and cumin tadka.",
+    "region": "South & North Indian",
+    "course": "Main Course",
+    "dietType": "vegetarian",
+    "prepMinutes": 10,
+    "cookMinutes": 20,
+    "servings": 2,
+    "servingSize": "1 bowl (250g)",
+    "nutrition": {
+      "calories": 240,
+      "protein": 9.5,
+      "carbohydrates": 42.0,
+      "fat": 4.0,
+      "fiber": 4.5,
+      "sodium": 280
+    },
+    "suitableFor": ["diabetes", "senior_friendly", "hypertension", "recovery"],
+    "isLikedBySubi": true,
+    "keyIngredients": ["Rice", "Yellow Moong Dal", "Cumin Seeds", "Turmeric", "Ghee"],
+    "ingredients": [
+      { "item": "Rice", "quantity": "1/2 cup" },
+      { "item": "Yellow moong dal", "quantity": "1/2 cup" },
+      { "item": "Water", "quantity": "3.5 cups" },
+      { "item": "Turmeric powder", "quantity": "1/2 tsp" },
+      { "item": "Cumin seeds and black pepper", "quantity": "1 tsp each" },
+      { "item": "Pure Ghee", "quantity": "1 tbsp" }
+    ],
+    "steps": [
+      "Wash rice and moong dal together; soak for 15 minutes.",
+      "Pressure cook with water, turmeric, and salt for 4 whistles until very soft.",
+      "In a small pan, heat ghee, add cumin seeds, crushed black pepper, and asafoetida.",
+      "Pour hot tadka over the cooked khichdi, mix thoroughly and serve with curd."
+    ]
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9r003" },
+    "slug": "idli-sambar",
+    "name": "Steamed Idli with Mixed Vegetable Sambar",
+    "description": "Traditional South Indian breakfast of fluffy steamed fermented rice cakes served with aromatic lentil vegetable stew.",
+    "region": "South Indian",
+    "course": "Breakfast",
+    "dietType": "vegan",
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "servings": 2,
+    "servingSize": "3 idlis + 1 cup sambar",
+    "nutrition": {
+      "calories": 290,
+      "protein": 11.0,
+      "carbohydrates": 54.0,
+      "fat": 4.2,
+      "fiber": 6.8,
+      "sodium": 390
+    },
+    "suitableFor": ["senior_friendly", "weight_loss", "hypertension"],
+    "isLikedBySubi": true,
+    "keyIngredients": ["Idli batter", "Toor dal", "Drumsticks", "Shallots", "Tamarind"],
+    "ingredients": [
+      { "item": "Fermented idli batter", "quantity": "2 cups" },
+      { "item": "Toor dal (boiled)", "quantity": "1 cup" },
+      { "item": "Drumstick and carrots", "quantity": "1/2 cup diced" },
+      { "item": "Sambar powder", "quantity": "1.5 tbsp" }
+    ],
+    "steps": [
+      "Grease idli plates with drops of oil, pour batter, and steam for 10-12 minutes.",
+      "Boil vegetables in tamarind water with sambar powder and turmeric.",
+      "Add cooked mashed toor dal, simmer for 5 minutes, and finish with mustard and curry leaf tempering.",
+      "Serve warm idlis dipped in fresh sambar."
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "targetUser": {
+    "username": "subi",
+    "name": "Subi",
+    "diet": "Vegetarian",
+    "dailyTargetCalories": 2050,
+    "allergies": ["peanuts"],
+    "healthConditions": []
+  },
+  "summary": {
+    "totalFoodsEvaluated": 130,
+    "suitableFoodsCount": 118,
+    "excludedAllergyCount": 12
+  },
+  "basicRecommendations": [
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f004",
+      "name": "Idli with Sambar",
+      "category": "Indian Dishes",
+      "score": 96,
+      "calories": 256,
+      "protein": 11.0,
+      "fiber": 6.2,
+      "reason": "Complete protein combination (fermented rice and lentils), easy digestion, low fat, fits Subi's vegetarian maintenance target."
+    },
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f006",
+      "name": "Palak Paneer with Phulka",
+      "category": "Indian Dishes",
+      "score": 94,
+      "calories": 365,
+      "protein": 17.0,
+      "fiber": 6.2,
+      "reason": "High calcium, iron from fresh spinach and high-quality dairy protein suited for vegetarian muscle maintenance."
+    },
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f003",
+      "name": "Ragi Mudde with Sambar",
+      "category": "Grains",
+      "score": 93,
+      "calories": 350,
+      "protein": 11.8,
+      "fiber": 10.4,
+      "reason": "Finger millet provides exceptional calcium, low glycemic index, and sustained energy for moderate daily activity."
+    },
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f008",
+      "name": "Chickpea Sundal (Chana)",
+      "category": "Legumes & Pulses",
+      "score": 91,
+      "calories": 210,
+      "protein": 10.5,
+      "fiber": 8.0,
+      "reason": "Ideal afternoon protein snack, high fiber, completely peanut-free."
+    }
+  ],
+  "customRecommendations": [
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f006",
+      "name": "Palak Paneer",
+      "matchType": "Liked Dish Preference",
+      "personalRating": "Loved by Subi",
+      "score": 99,
+      "reason": "Directly matches Subi's liked recipes list and fits dinner calorie allocation."
+    },
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f007",
+      "name": "Moong Dal Khichdi with Curd",
+      "matchType": "Liked Dish Preference",
+      "personalRating": "Loved by Subi",
+      "score": 97,
+      "reason": "Comfort food, balanced amino acid profile, high protein."
+    }
+  ],
+  "allergyFilteredOut": [
+    {
+      "foodId": "65f1a2b3c4d5e6f7a8b9f013",
+      "name": "Peanut Chikki",
+      "category": "Snacks",
+      "reason": "Excluded: Contains Peanuts (matches Subi's allergy profile)"
+    },
+    {
+      "name": "Poha with Roasted Peanuts",
+      "category": "Breakfast",
+      "reason": "Excluded: Contains Peanuts (matches Subi's allergy profile)"
+    },
+    {
+      "name": "Groundnut Chutney",
+      "category": "Condiments",
+      "reason": "Excluded: Contains Peanuts (matches Subi's allergy profile)"
+    }
+  ]
+}

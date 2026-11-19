@@ -1,0 +1,105 @@
+{
+  "user": {
+    "userId": "65f1a2b3c4d5e6f7a8b9c0d1",
+    "username": "subi",
+    "name": "Subi",
+    "dietType": "Vegetarian",
+    "goal": "Maintain Weight"
+  },
+  "summaryCards": {
+    "bmi": {
+      "value": 20.6,
+      "category": "Normal weight",
+      "healthyRange": "18.5 – 24.9",
+      "status": "healthy"
+    },
+    "bmr": {
+      "value": 1320,
+      "unit": "kcal",
+      "label": "Basal Metabolic Rate",
+      "description": "Calories burned at complete rest (Mifflin-St Jeor equation)"
+    },
+    "tdee": {
+      "value": 2046,
+      "unit": "kcal",
+      "label": "Total Daily Energy Expenditure",
+      "description": "Maintenance calories including moderate physical activity"
+    },
+    "dailyTarget": {
+      "value": 2050,
+      "unit": "kcal",
+      "goalAdjustment": "0 kcal (maintenance target)",
+      "badge": "Active Target"
+    }
+  },
+  "macroDistribution": {
+    "targetCalories": 2050,
+    "macros": [
+      {
+        "name": "Protein",
+        "grams": 128,
+        "calories": 512,
+        "percentage": 25,
+        "color": "#16a34a"
+      },
+      {
+        "name": "Carbohydrates",
+        "grams": 256,
+        "calories": 1024,
+        "percentage": 50,
+        "color": "#eab308"
+      },
+      {
+        "name": "Healthy Fats",
+        "grams": 57,
+        "calories": 514,
+        "percentage": 25,
+        "color": "#f97316"
+      }
+    ]
+  },
+  "quickActions": [
+    {
+      "title": "Your Recommendations",
+      "description": "Ranked food items and dishes tailored for Subi's profile.",
+      "route": "/recommendations"
+    },
+    {
+      "title": "Daily Meal Plan",
+      "description": "Balanced 4-meal plan hitting 2050 kcal target.",
+      "route": "/meal-plan"
+    },
+    {
+      "title": "Indian Recipes",
+      "description": "Regional South & North Indian healthy recipes.",
+      "route": "/recipes"
+    },
+    {
+      "title": "Baby Corner",
+      "description": "Stage-wise baby meal planning and safe weaning guide.",
+      "route": "/baby"
+    }
+  ],
+  "recentMealPlans": [
+    {
+      "id": "65f1a2b3c4d5e6f7a8b9c0d3",
+      "date": "2026-11-19",
+      "targetCalories": 2050,
+      "totalCalories": 2035,
+      "totalProtein": 92,
+      "totalCarbohydrates": 268,
+      "totalFat": 55,
+      "status": "active"
+    },
+    {
+      "id": "65f1a2b3c4d5e6f7a8b9c0d8",
+      "date": "2026-11-18",
+      "targetCalories": 2050,
+      "totalCalories": 2010,
+      "totalProtein": 88,
+      "totalCarbohydrates": 272,
+      "totalFat": 52,
+      "status": "completed"
+    }
+  ]
+}

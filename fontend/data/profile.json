@@ -1,0 +1,125 @@
+[
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d2" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+    "username": "subi",
+    "fullName": "Subitsha P",
+    "email": "subi@gmail.com",
+    "age": 23,
+    "gender": "female",
+    "height": 162,
+    "weight": 54,
+    "activityLevel": "moderate",
+    "goal": "maintain",
+    "dietType": "vegetarian",
+    "allergies": [
+      "peanuts"
+    ],
+    "healthConditions": [],
+    "likedRecipeIds": [
+      "palak-paneer",
+      "moong-dal-khichdi",
+      "idli-sambar",
+      "vegetable-kurma",
+      "ragi-mudde"
+    ],
+    "description": "Primary Account · Maintaining weight with traditional South Indian vegetarian diet",
+    "targetCalories": 2050,
+    "bmi": 20.6,
+    "bmr": 1320,
+    "tdee": 2046,
+    "createdAt": { "$date": "2026-01-10T08:35:00.000Z" },
+    "updatedAt": { "$date": "2026-11-19T10:15:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0da" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d9" },
+    "username": "testing",
+    "fullName": "Testing User",
+    "email": "testing@gmail.com",
+    "age": 28,
+    "gender": "male",
+    "height": 178,
+    "weight": 74,
+    "activityLevel": "very",
+    "goal": "gain",
+    "dietType": "non_vegetarian",
+    "allergies": [],
+    "healthConditions": [],
+    "likedRecipeIds": [
+      "chicken-curry",
+      "egg-bhurji",
+      "palak-paneer"
+    ],
+    "description": "Fitness & Strength · Muscle gain with high-protein non-veg meal targets",
+    "targetCalories": 2650,
+    "bmi": 23.4,
+    "bmr": 1718,
+    "tdee": 2663,
+    "createdAt": { "$date": "2026-01-01T00:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-19T10:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d5" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d5" },
+    "username": "ramanathan",
+    "fullName": "Ramanathan P (Grandparent)",
+    "email": "ramanathan@gmail.com",
+    "age": 68,
+    "gender": "male",
+    "height": 168,
+    "weight": 66,
+    "activityLevel": "light",
+    "goal": "maintain",
+    "dietType": "vegetarian",
+    "allergies": [],
+    "healthConditions": [
+      "senior",
+      "hypertension",
+      "diabetes"
+    ],
+    "likedRecipeIds": [
+      "moong-dal-khichdi",
+      "idli-sambar",
+      "ragi-mudde"
+    ],
+    "description": "Senior Care · Soft digestible dishes, low sodium & blood sugar management",
+    "targetCalories": 1750,
+    "bmi": 23.4,
+    "bmr": 1395,
+    "tdee": 1918,
+    "createdAt": { "$date": "2026-01-12T09:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-19T10:00:00.000Z" }
+  },
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d6" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d6" },
+    "username": "kavitha",
+    "fullName": "Kavitha M",
+    "email": "kavitha@gmail.com",
+    "age": 32,
+    "gender": "female",
+    "height": 158,
+    "weight": 68,
+    "activityLevel": "light",
+    "goal": "lose",
+    "dietType": "vegetarian",
+    "allergies": [
+      "dairy"
+    ],
+    "healthConditions": [
+      "obesity"
+    ],
+    "likedRecipeIds": [
+      "moong-dal-khichdi",
+      "vegetable-kurma"
+    ],
+    "description": "Weight Loss Journey · Calorie deficit, dairy-free balanced vegetarian meals",
+    "targetCalories": 1550,
+    "bmi": 27.2,
+    "bmr": 1410,
+    "tdee": 1938,
+    "createdAt": { "$date": "2026-01-14T09:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-19T10:00:00.000Z" }
+  }
+]

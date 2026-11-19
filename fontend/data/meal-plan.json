@@ -1,0 +1,203 @@
+{
+  "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d3" },
+  "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+  "username": "subi",
+  "planDate": "2026-11-19",
+  "targetCalories": 2050,
+  "dietType": "vegetarian",
+  "meals": {
+    "breakfast": {
+      "target": 510,
+      "calories": 485,
+      "protein": 19.5,
+      "carbohydrates": 76.0,
+      "fat": 11.2,
+      "items": [
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f004",
+          "name": "Idli",
+          "category": "Indian Dishes",
+          "servingSize": "3 pieces (120g)",
+          "servings": 1.5,
+          "calories": 174,
+          "protein": 6.0,
+          "carbohydrates": 36.0,
+          "fat": 0.6
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f005",
+          "name": "Sambar",
+          "category": "Indian Dishes",
+          "servingSize": "1.5 cup (360g)",
+          "servings": 1.5,
+          "calories": 210,
+          "protein": 10.5,
+          "carbohydrates": 30.0,
+          "fat": 6.0
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f011",
+          "name": "Roasted Makhana",
+          "category": "Snacks",
+          "servingSize": "1 small cup (15g)",
+          "servings": 0.5,
+          "calories": 52,
+          "protein": 1.5,
+          "carbohydrates": 10.0,
+          "fat": 0.7
+        },
+        {
+          "name": "Herbal Green Tea",
+          "category": "Beverages",
+          "servingSize": "1 cup (200ml)",
+          "servings": 1,
+          "calories": 49,
+          "protein": 1.5,
+          "carbohydrates": 0.0,
+          "fat": 3.9
+        }
+      ]
+    },
+    "lunch": {
+      "target": 665,
+      "calories": 676,
+      "protein": 34.0,
+      "carbohydrates": 83.0,
+      "fat": 23.5,
+      "items": [
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f001",
+          "name": "Brown Rice (cooked)",
+          "category": "Grains",
+          "servingSize": "1 cup (160g)",
+          "servings": 1,
+          "calories": 216,
+          "protein": 5.0,
+          "carbohydrates": 45.0,
+          "fat": 1.8
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f006",
+          "name": "Palak Paneer",
+          "category": "Indian Dishes",
+          "servingSize": "1 cup (200g)",
+          "servings": 1,
+          "calories": 280,
+          "protein": 14.0,
+          "carbohydrates": 10.0,
+          "fat": 20.0
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f010",
+          "name": "Curd / Plain Yogurt",
+          "category": "Dairy",
+          "servingSize": "1 cup (200g)",
+          "servings": 1,
+          "calories": 120,
+          "protein": 8.0,
+          "carbohydrates": 9.0,
+          "fat": 6.0
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f009",
+          "name": "Steamed Beans Poriyal",
+          "category": "Vegetables",
+          "servingSize": "0.7 cup (100g)",
+          "servings": 0.7,
+          "calories": 60,
+          "protein": 2.2,
+          "carbohydrates": 7.7,
+          "fat": 2.4
+        }
+      ]
+    },
+    "snack": {
+      "target": 310,
+      "calories": 305,
+      "protein": 13.5,
+      "carbohydrates": 57.0,
+      "fat": 4.8,
+      "items": [
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f008",
+          "name": "Chickpea Sundal (Chana)",
+          "category": "Legumes & Pulses",
+          "servingSize": "1 cup (160g)",
+          "servings": 1,
+          "calories": 210,
+          "protein": 10.5,
+          "carbohydrates": 32.0,
+          "fat": 4.5
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f012",
+          "name": "Fresh Apple",
+          "category": "Fruits",
+          "servingSize": "1 medium (180g)",
+          "servings": 1,
+          "calories": 95,
+          "protein": 0.5,
+          "carbohydrates": 25.0,
+          "fat": 0.3
+        }
+      ]
+    },
+    "dinner": {
+      "target": 565,
+      "calories": 569,
+      "protein": 25.0,
+      "carbohydrates": 82.0,
+      "fat": 15.5,
+      "items": [
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f002",
+          "name": "Phulka Roti (Whole Wheat)",
+          "category": "Grains",
+          "servingSize": "2 rotis (70g)",
+          "servings": 2,
+          "calories": 170,
+          "protein": 6.0,
+          "carbohydrates": 34.0,
+          "fat": 1.0
+        },
+        {
+          "foodId": "65f1a2b3c4d5e6f7a8b9f007",
+          "name": "Yellow Moong Dal with Cumin Tadka",
+          "category": "Legumes & Pulses",
+          "servingSize": "1.2 cups (240g)",
+          "servings": 1.2,
+          "calories": 216,
+          "protein": 14.4,
+          "carbohydrates": 33.6,
+          "fat": 1.4
+        },
+        {
+          "name": "Cucumber Tomato Onion Kachumber",
+          "category": "Salads",
+          "servingSize": "1 bowl (150g)",
+          "servings": 1,
+          "calories": 48,
+          "protein": 1.8,
+          "carbohydrates": 9.4,
+          "fat": 0.4
+        },
+        {
+          "name": "Warm Golden Haldi Milk (low fat)",
+          "category": "Beverages",
+          "servingSize": "1 small glass (150ml)",
+          "servings": 1,
+          "calories": 135,
+          "protein": 5.2,
+          "carbohydrates": 12.0,
+          "fat": 3.8
+        }
+      ]
+    }
+  },
+  "totalCalories": 2035,
+  "totalProtein": 92.0,
+  "totalCarbohydrates": 268.0,
+  "totalFat": 55.0,
+  "status": "active",
+  "createdAt": { "$date": "2026-11-19T08:00:00.000Z" }
+}

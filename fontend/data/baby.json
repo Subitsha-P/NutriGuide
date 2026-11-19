@@ -1,0 +1,52 @@
+[
+  {
+    "_id": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d4" },
+    "userId": { "$oid": "65f1a2b3c4d5e6f7a8b9c0d1" },
+    "parentUsername": "subi",
+    "name": "Ananya",
+    "birthDate": "2024-08-10",
+    "ageMonths": 15,
+    "stage": "Stage 3 (12–24 months) - Family Table & Finger Foods",
+    "dietType": "vegetarian",
+    "allergies": [],
+    "likes": [
+      "Mashed Sweet Potato",
+      "Moong Dal Khichdi with Ghee",
+      "Steamed Carrot Sticks",
+      "Idli Dipped in Curd",
+      "Apple Puree"
+    ],
+    "dislikes": [
+      "Bitter Gourd",
+      "Raw Capsicum"
+    ],
+    "dailyMealGuide": {
+      "texture": "Chopped soft table food, bite-sized finger foods",
+      "feedingFrequency": "3 main meals + 2 healthy snacks",
+      "recommendedPicks": [
+        {
+          "name": "Soft Moong Dal Khichdi with Carrot",
+          "texture": "Mashed soft grain-lentil",
+          "benefits": "Easily digestible, high protein and beta-carotene"
+        },
+        {
+          "name": "Steamed Ragi Apple Porridge",
+          "texture": "Smooth creamy porridge",
+          "benefits": "Rich in natural calcium and dietary iron for bone growth"
+        },
+        {
+          "name": "Soft Paneer Cubes with Steamed Peas",
+          "texture": "Finger food",
+          "benefits": "Encourages self-feeding, pincer grasp, and provides calcium"
+        }
+      ],
+      "safetyAlerts": [
+        "Avoid whole nuts, hard seeds, and sticky round grapes to prevent choking.",
+        "Keep salt and added sugar minimal.",
+        "Always supervise during self-feeding sessions."
+      ]
+    },
+    "createdAt": { "$date": "2026-01-15T09:00:00.000Z" },
+    "updatedAt": { "$date": "2026-11-19T10:30:00.000Z" }
+  }
+]
